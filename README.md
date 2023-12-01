@@ -1,2 +1,6 @@
 # CustomerAcquisitionCostAnalysis.py
 Customer Acquisition Cost Analysis is a Python data science project that explores the efficiency and effectiveness of customer acquisition strategies across various marketing channels.
+The project is divided into two main parts: data collection and preparation, and analysis. The data collection and preparation part involves gathering information on various customer acquisition expenses and preparing the data for analysis. The analysis part involves calculating the customer acquisition cost (CAC) for each marketing channel, visualizing the CAC distributions across channels, generating summary statistics to compare CAC metrics across channels, exploring relationships between new customers, CAC, and conversion rates, calculating break-even customers for each channel, and comparing actual customers acquired with break-even customers for each channel.
+
+The project demonstrates how Python, specifically JupyterLab, can be used to conduct in-depth CAC analysis and derive actionable insights. The repository includes a comprehensive dataset that serves as an invaluable resource for conducting CAC analysis. The project also includes a report that provides a detailed analysis of the efficiency and effectiveness of customer acquisition strategies across various marketing channels.
+
